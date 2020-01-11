@@ -1,6 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TreactBook
 
-## Available Scripts
+* Starter project built on React, TypeScript, Storybook and Jest
+
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Caveat
+* Use Node 11.13+ and do __NOT__ use Node 12
+
+## Storybook 
+
+### `yarn storybook`
+
+Storybook should start, on a random open port in dev-mode.
+
+## React App
 
 In the project directory, you can run:
 
