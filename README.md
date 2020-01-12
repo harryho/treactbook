@@ -1,8 +1,11 @@
 # TreactBook
 
-* Starter project built on React, TypeScript, Storybook and Jest
+* Starter project built on React, TypeScript, Redux, Storybook and Jest
 
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+* The chat demo comes from the [Redux tutorial](https://redux.js.org/recipes/usage-with-typescript). The definition of store is slightly simpllified.
+
 
 ## Caveat
 * Use Node 11.13+ and do __NOT__ use Node 12
